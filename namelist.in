@@ -41,7 +41,7 @@
 ! which bodies a body interacts with:
 !  interact(1:10)=.true.,.true.,.true.,.true.,.true.,  
 !                 .true.,.true.,.true.,.true.,.true./ 
-! this example is everything apart from jupiter, saturn, and uranus, etc
+! this example is everything apart from mars, jupiter, saturn, and uranus, etc
 !  interact(1:10)=.true.,.true.,.true.,.true.,.false.,  
 !                 .false.,.false.,.false.,.false.,.true./ 
 ! this example is only the sun
