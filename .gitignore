@@ -13,4 +13,22 @@ pics
 python/*.png
 .dropbox
 Icon*
+.DS_Store
+
+# Simulation output
+runs/
+*.nc
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated figures: ignore everything by default
+docs/figures/*
+
+# Keep only figures used in README.md
+!docs/figures/interacting_all.gif
+!docs/figures/milankovitch.png
+!docs/figures/barycentric_sun_wobble.png
+
 

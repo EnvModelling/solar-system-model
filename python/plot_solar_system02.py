@@ -3,7 +3,7 @@ import getpass
 
 
 import matplotlib
-matplotlib.use('agg')
+#matplotlib.use('agg')
 from matplotlib import rc
 
 rc('font',family='serif')
